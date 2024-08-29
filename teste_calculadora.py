@@ -13,3 +13,8 @@ a = 3
 b = 6
 mult = calculadora.multiplicar(a, b)
 print(mult)
+import calculadora
+c = 4
+d = 2
+div = calculadora.dividir(c, d)
+print(div)
